@@ -22,7 +22,7 @@ patient_dict = {'name': 'nitish', 'gender': 'male', 'age': 35, 'address': addres
 patient1 = Patient(**patient_dict)
 
 
-print(type(temp))
+
 
 
 # Better organization of related data (e.g., vitals, address, insurance)
